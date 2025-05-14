@@ -2,7 +2,7 @@
 
 ## Overview
 
-This research project explores the role of Large Language Models (LLMs) in the legal profession, specifically their use in legal advice** and documentation. The project will examine the opportunities and challenges posed by LLMs, such as GPT-4, in automating routine legal tasks, streamlining workflows, and providing legal advice to individuals who cannot afford traditional legal services.
+This research project explores the role of Large Language Models (LLMs) in the legal profession, specifically their use in legal advice and documentation. The project will examine the opportunities and challenges posed by LLMs, such as GPT-4, in automating routine legal tasks, streamlining workflows, and providing legal advice to individuals who cannot afford traditional legal services.
 
 The research will analyze both the **theoretical framework and the **practical application of LLMs in legal contexts. I will investigate how LLMs can assist in contract drafting, legal research, and providing basic legal advice, while also addressing the ethical concerns that arise from using AI in such sensitive and complex areas of law. By exploring these issues, this project aims to provide a comprehensive understanding of the implications of using LLMs in the legal profession.
 
@@ -46,6 +46,6 @@ This research aims to:
 Thank you for exploring this project! Feel free to dive into the documents and simulations below to better understand the impact of LLMs in the legal profession.
 
 
-[**Click here to access the final paper**](paper.ipynb)
-[**Click here for the annotated bibliography**](bibliography.ipynb) 
+[**Click here to access the final paper**](paper.ipynb) <br>
+[**Click here for the annotated bibliography**](bibliography.ipynb) <br>
 [**Click here for the LLM simulation prompts and results**](prompting.ipynb)
